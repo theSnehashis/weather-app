@@ -1,3 +1,7 @@
+⚠️ This project is licensed under "All Rights Reserved".  
+You may not copy, use, or distribute this code without permission.
+
+
 # 🌤️ Weather App (Python + Tkinter)
 
 A simple and responsive GUI-based weather application built using **Python** and **Tkinter**.  
